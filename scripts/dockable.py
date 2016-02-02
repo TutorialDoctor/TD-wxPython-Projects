@@ -1,5 +1,6 @@
 #!/usr/bin/python 
 # dockable.py 
+# from the book
 import wx
 
 class Dockable(wx.Frame):
