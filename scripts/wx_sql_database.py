@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #wx_sql_database.py
-
+#from the book
 import wx
 import sqlite3 as lite
 
