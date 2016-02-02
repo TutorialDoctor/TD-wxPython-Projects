@@ -1,5 +1,5 @@
 # TD-wxPython-Projects
-A collection of projects and demos made with wxPython by the Tutorial Doctor.
+A curation of projects and demos made with wxPython by the Tutorial Doctor.
 
 Some scripts are taken from http://www.zetcode.com/wxpython/ and will be edited later.
 
