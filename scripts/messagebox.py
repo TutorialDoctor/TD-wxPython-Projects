@@ -1,7 +1,7 @@
 #!/usr/bin/pyton
 
 #messagebox.py
-
+# from the book
 import wx
 
 class MessageDialog(wx.Frame):
