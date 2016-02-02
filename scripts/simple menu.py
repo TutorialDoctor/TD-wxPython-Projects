@@ -1,7 +1,7 @@
 
 import wx
 
-
+#from the book
 class Example(wx.Frame):
     
     def __init__(self,*args,**kwargs):
